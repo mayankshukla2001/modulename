@@ -9,6 +9,6 @@ return array(
     'yii\\composer\\' => array($vendorDir . '/yiisoft/yii2-composer'),
     'yii\\' => array($vendorDir . '/yiisoft/yii2'),
     'yidas\\yii2BowerAsset\\' => array($vendorDir . '/yidas/yii2-bower-asset'),
-    'vendorname\\modulename\\' => array($baseDir . '/'),
+    'mayankshukla2001\\modulename\\' => array($baseDir . '/src'),
     'cebe\\markdown\\' => array($vendorDir . '/cebe/markdown'),
 );

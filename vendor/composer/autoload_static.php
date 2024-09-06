@@ -17,9 +17,9 @@ class ComposerStaticInit0e69a6bfa5530ec17a008318add9851f
             'yii\\' => 4,
             'yidas\\yii2BowerAsset\\' => 21,
         ),
-        'v' => 
+        'm' => 
         array (
-            'vendorname\\modulename\\' => 22,
+            'mayankshukla2001\\modulename\\' => 28,
         ),
         'c' => 
         array (
@@ -40,9 +40,9 @@ class ComposerStaticInit0e69a6bfa5530ec17a008318add9851f
         array (
             0 => __DIR__ . '/..' . '/yidas/yii2-bower-asset',
         ),
-        'vendorname\\modulename\\' => 
+        'mayankshukla2001\\modulename\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/',
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'cebe\\markdown\\' => 
         array (

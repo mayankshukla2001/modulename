@@ -1,16 +1,21 @@
 {
-    "name": "vendorname/modulename",
+    "name": "mayankshukla2001/modulename",
     "description": "A custom Yii2 module",
     "type": "yii2-extension",
-    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mayank Shukla",
+            "email": "your-email@example.com"
+        }
+    ],
     "require": {
-        "php": ">=7.4.0",
-         "yiisoft/yii2": "~2.0.45",
+        "php": ">=7.0",
+        "yiisoft/yii2": "~2.0",
         "yidas/yii2-bower-asset": "2.0.13.1"
     },
     "autoload": {
         "psr-4": {
-            "vendorname\\modulename\\": ""
+            "mayankshukla2001\\modulename\\": "src/"
         }
     },
     "config": {
