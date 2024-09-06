@@ -1,0 +1,21 @@
+{
+    "name": "vendorname/modulename",
+    "description": "A custom Yii2 module",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4.0",
+         "yiisoft/yii2": "~2.0.45",
+        "yidas/yii2-bower-asset": "2.0.13.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "vendorname\\modulename\\": ""
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "yiisoft/yii2-composer": true
+        }
+    }
+}
