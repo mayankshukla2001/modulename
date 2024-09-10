@@ -9,8 +9,8 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
-        "yiisoft/yii2": "~2.0",
+        "php": ">=7.4.0",
+        "yiisoft/yii2": "~2.0.45",
         "yidas/yii2-bower-asset": "2.0.13.1"
     },
     "autoload": {

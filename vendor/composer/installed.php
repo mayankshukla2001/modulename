@@ -3,7 +3,7 @@
         'name' => 'mayankshukla2001/modulename',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '8a5d913b111cb2a7133bc9b33785b9dcad16a25c',
+        'reference' => 'dd328a02bcb9b7d2600d2d3224b81076718d9600',
         'type' => 'yii2-extension',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -67,7 +67,7 @@
         'mayankshukla2001/modulename' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '8a5d913b111cb2a7133bc9b33785b9dcad16a25c',
+            'reference' => 'dd328a02bcb9b7d2600d2d3224b81076718d9600',
             'type' => 'yii2-extension',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

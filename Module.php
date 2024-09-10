@@ -1,6 +1,6 @@
 <?php
 
-namespace vendorname\modulename;
+namespace mayankshukla2001\modulename;
 
 use yii\base\Module as BaseModule;
 
